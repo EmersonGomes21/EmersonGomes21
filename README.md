@@ -1,4 +1,5 @@
-[![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/emerson-gomes-rebolsas-949283166/)
+ [![teste](https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png)](https://www.linkedin.com/in/emerson-gomes-rebolsas-949283166/)
+ <img src="https://github.com/EmersonGomes21/EmersonGomes21/blob/master/javascript.gif" width="800"/>
 ##  Olá 🖖
   <h2> Meu Nome é Emerson Gomes e estes são alguns fatos sobre mim: <h2>
 <> 👨‍🎓 Graduando do último semestre do curso de Análise e Desenvolvimento de Sistemas Pela Universidade Estadual Do Pará - UEPA</br></br>
