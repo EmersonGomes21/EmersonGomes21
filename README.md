@@ -1,7 +1,7 @@
 
  <a href="https://www.linkedin.com/in/emerson-gomes-rebolsas-949283166/" target="_blank"> <img src="https://user-images.githubusercontent.com/37448340/87267194-5a2c8c80-c49d-11ea-95a5-993860580961.png"/> </a>
  
- <img src="https://github.com/EmersonGomes21/EmersonGomes21/blob/master/javascript.gif" width="800"/>
+ <img src="https://github.com/EmersonGomes21/EmersonGomes21/blob/master/javascript.gif" width="900"/>
 
 ##  Olá 🖖
   <h2> Meu Nome é Emerson Gomes e estes são alguns fatos sobre mim: <h2>
