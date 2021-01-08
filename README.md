@@ -4,7 +4,7 @@
  <img src="https://github.com/EmersonGomes21/EmersonGomes21/blob/master/javascript.gif" width="900"/>
 
 ##  Olá 🖖
-  ### Meu nome é Emerson Gomes e estes são alguns fatos sobre mim:
+  ## Meu nome é Emerson Gomes e estes são alguns fatos sobre mim:
  <h3></> Desenvolvedor Front-End na Empresa Compasso UOL LTDA.<h3>
  👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas, Pela Universidade Estadual Do Pará - UEPA</br></br>
  🎓📚 Estudante de Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma. </br></br>
