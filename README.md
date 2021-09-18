@@ -5,7 +5,7 @@
 
 ##  Olá 🖖
   ## Meu nome é Emerson Gomes e estes são alguns fatos sobre mim:
- <h3></> Desenvolvedor Front-End na Empresa Compasso UOL LTDA.<h3>
+ <h3></> Desenvolvedor Front-End Pleno React / Native<h3>
  👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas, Pela Universidade Estadual Do Pará - UEPA</br></br>
  🎓📚 Estudante de Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma. </br></br>
  📚 Estou focando meus estudos na Omnistack (Nodejs, Reactjs, React Native), desenvolvimento Fullstack utilizando <b>Javascript</b>, Html, CSS, Banco de dados relacionais e NoSQL. </br></br>
