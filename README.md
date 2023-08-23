@@ -5,9 +5,9 @@
 
 ##  Olá 🖖
   ## Meu nome é Emerson Gomes e estes são alguns fatos sobre mim:
- <h3></> Desenvolvedor Front-End Pleno React/NextJS e React Native<h3>
+ <h3></>Software Developer (React/NextJS, React Native e NodeJS)<h3>
  👨‍🎓 Graduado em Análise e Desenvolvimento de Sistemas, Pela Universidade Estadual Do Pará - UEPA</br></br>
  🎓📚 Estudante de Pós Graduação em Projetos de Aplicativos Móveis Multiplataforma. </br></br>
  🤝 Adoro trabalhar em equipe e ajudar a comunidade dev a crescer.<br/> <br/>
- 🙋‍♂ Disponível para proposta de emprego e projetos que visem minha stack atual. 
+ 🙋‍♂ Disponível para projetos que visem minha stack atual. 
 
